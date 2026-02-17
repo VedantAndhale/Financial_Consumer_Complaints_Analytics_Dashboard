@@ -1,6 +1,6 @@
 # Financial Consumer Complaints Analytics Dashboard
 
-A business-focused Power BI dashboard designed to analyze financial consumer complaints and track key service performance indicators.  
+A business-focused Power BI dashboard designed to analyze financial consumer complaints and track key service performance indicators.
 This project converts raw complaint data into actionable insights to help organizations monitor service quality, identify risk areas, and improve customer satisfaction.
 
 ---
@@ -40,7 +40,7 @@ This dashboard provides a consolidated analytical view of complaint data, enabli
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](assets/dashboard.jpg)
 ---
 
 ## Tools and Technologies
@@ -67,7 +67,3 @@ This dashboard enables stakeholders to:
 - Support compliance and customer experience initiatives
 
 
-
----
-
-## Project Structure
