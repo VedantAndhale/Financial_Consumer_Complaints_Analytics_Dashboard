@@ -41,6 +41,7 @@ This dashboard provides a consolidated analytical view of complaint data, enabli
 
 ## Dashboard Preview
 ![Dashboard Screenshot](assets/dashboard.jpg)
+
 ---
 
 ## Tools and Technologies
